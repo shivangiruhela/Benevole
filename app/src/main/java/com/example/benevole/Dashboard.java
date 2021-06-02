@@ -13,6 +13,7 @@ public class Dashboard extends AppCompatActivity {
     public Button button1;
     public Button button2;
     public Button button3;
+    public Button button4;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
